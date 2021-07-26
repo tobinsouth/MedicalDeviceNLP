@@ -1,3 +1,12 @@
+# Personal
+.DS_Store
+tgaScraping/chromedriver_win32.exe
+tgaScraping/chromedriver
+.ipynb_checkpoints
+.vscode
+figs
+data/MAUDE_data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
